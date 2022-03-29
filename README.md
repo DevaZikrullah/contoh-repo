@@ -1,3 +1,3 @@
 # contoh-repo
 
-testing push ke branch2
+testing push ke branch1
